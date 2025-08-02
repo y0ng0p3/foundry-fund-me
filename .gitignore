@@ -15,6 +15,7 @@ docs/
 
 # Ignores development libraries used
 lib/
+lib/*
 
 .DS_Store
 zkout/
