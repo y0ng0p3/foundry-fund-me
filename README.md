@@ -54,9 +54,6 @@ forge script script/DeployFundMe.s.sol
 
 ## Testing
 
-Create a `.env` file in the root directory of the project. Then fill it with the needed info.  
-You'll find a template of it in [https://github.com/y0ng0p3/foundry-fund-me/.env.template](.env.template)
-
 ```
 forge test
 ```
